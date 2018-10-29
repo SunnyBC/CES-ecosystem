@@ -1,2 +1,3 @@
-# CES-ecosystem
-cloud ecosystem for block chain
+# CES
+
+one perfect decentralized and closed cycle block chain Crowd Ecological System
